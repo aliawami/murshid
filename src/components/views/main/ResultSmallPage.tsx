@@ -9,7 +9,7 @@ interface Props {
 function ResultSmallPage({ data }: Props) {
   return (
     <>
-      <VStack>
+      <VStack w="full" gap={4} align="stretch">
         {data.map((rootData) => (
           <ResultCard key={rootData.id} data={rootData} />
         ))}
