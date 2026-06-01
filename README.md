@@ -2,6 +2,7 @@
 
 Murshid is a modern React application that allows users to search for an Arabic root word in the Holy Qur'an and returns detailed, related words and occurrences.
 
+
 ## 🌟 Features
 - **Responsive Design**: Auto-swaps between a detailed Table view (for large screens) and a mobile-friendly Card View (for smaller devices).
 - **Fast & Modern UI**: Built with React, TypeScript, Vite, and styled with Chakra UI.
